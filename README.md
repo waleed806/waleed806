@@ -1,111 +1,89 @@
-\<div align="center">
+<div align="center">
 
-# Hi, I'm Waleed Ahmad 👋
+# WALEED AHMAD
 
-### Backend Developer | Node.js | Express.js | MongoDB
+**Backend Developer**
 
-I enjoy building backend applications, designing REST APIs, working with databases and understanding how things work behind the scenes.
+Building APIs. Working with databases. Exploring backend architecture.
 
-\<br>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleed806)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-ahmad-aa7a3b276/)
-\
+<a href="https://github.com/waleed806">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/waleed-ahmad-aa7a3b276/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-
-\</div>
-
----
-
-## 👨‍💻 About Me
-
-- Interested in Backend Development and Software Engineering.
-- Working with Node.js, Express.js and MongoDB.
-- Building RESTful APIs and backend applications.
-- Interested in authentication, database design and server-side architecture.
-- Currently exploring Advanced Node.js, Docker and Redis.
-- Always experimenting with new technologies and improving my development skills.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### ABOUT
 
-### Languages
+I'm focused on backend development, with an interest in building reliable APIs, working with databases, and understanding how server-side systems operate.
 
-\<p> \<img src="[https://skillicons.dev/icons?i=html,css,js](https://skillicons.dev/icons?i=html,css,js)" /> \</p>
+Currently working with the Node.js ecosystem and building practical backend projects.
 
-### Backend Development
+### TECH STACK
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb](https://skillicons.dev/icons?i=nodejs,express,mongodb)" />
-\</p>
+**Languages**
 
-### Tools & Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=git,github,postman,vscode,docker,redis](https://skillicons.dev/icons?i=git,github,postman,vscode,docker,redis)" />
-\</p>
+**Backend & Database**
 
-### Additional Technologies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
-- Mongoose
-- JWT Authentication
-- bcrypt
-- REST APIs
-- EJS
-- npm
+**Tools**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Featured Projects
+**Currently Exploring**
 
-### Customer Support Ticket Management API
-
-A backend learning project built using Node.js, Express.js and MongoDB.
-
-**Features:**
-
-- User authentication using JWT.
-- Password hashing using bcrypt.
-- Role-based authorization.
-- Ticket creation and management.
-- Admin access to submitted tickets.
-- MongoDB database integration.
-
-**Tech:** Node.js · Express.js · MongoDB · Mongoose · JWT
-
-[View Repository](https://github.com/waleed806/Customer_support_Ticket_Management_System)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+### FEATURED PROJECT
 
-- Advanced Node.js internals
-- Event Loop and libuv
-- Streams, Buffers and Worker Threads
+**Customer Support Ticket Management API**
+
+A backend learning project focused on REST API development, authentication, authorization and database operations.
+
+- JWT-based authentication
+- Password hashing with bcrypt
+- Role-based authorization
+- Ticket creation and management
+- Admin ticket access
+- MongoDB and Mongoose integration
+
+[View Project →](https://github.com/waleed806/Customer_support_Ticket_Management_System)
+
+---
+
+### CURRENT FOCUS
+
+- Advanced Node.js and its internals
+- Event Loop, Streams and Worker Threads
 - Redis and caching
-- Docker and Docker Compose
-- Backend security and API testing
-- Linux and deployment
+- Docker and containerization
+- API security and testing
+- Backend architecture
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-\<div align="center">
+*Learning by building. Improving through practice.*
 
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=waleed806&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=waleed806\&show_icons=true\&theme=github_dark\&hide_border=true)" />
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=waleed806&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed806\&layout=compact\&theme=github_dark\&hide_border=true)" />
-
-\<img src="[https://streak-stats.demolab.com?user=waleed806&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=waleed806\&theme=github-dark-blue\&hide_border=true)" />
-
-\</div>
-
----
-
-\<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-\</div>
+</div>
